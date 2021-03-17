@@ -51,7 +51,7 @@ Esse projeto faz parte dos desafios da trilha ReactJS do bootcamp Ignite, promov
 ## 🧰 Como executar
 
     # Clone o repositório
-    $ git clone git@github.com:caiofuccio/github-explorer.git
+    $ git clone git@github.com:caiofuccio/todo-list.git
 	
 	# Instale as dependências
 	$ yarn
